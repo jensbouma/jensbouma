@@ -52,7 +52,6 @@ Building [backpackerswereld.nl](https://backpackerswereld.nl) an affiliate site 
 
 ## 🎓 Education
 
-- Currently pursuing a comprehensive curriculum focused on programming skills, including an emphasis on C and C++ languages.
 - Bachelor's Degree in Communication and Multimedia design
 - Associate's Degree in Photonics with a focus on Video and Photography
 
