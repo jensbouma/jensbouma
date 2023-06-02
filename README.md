@@ -11,7 +11,8 @@ _I am open for new opportunities in the fields of media and programming, and I a
 As an innovative solution for aspiring radio telephony operators, I have developed an online training simulator specifically designed to enhance proficiency in radio communication within the aviation industry. This interactive platform provides a realistic environment for practicing radio telephony procedures, improving communication skills, and preparing individuals for successful interactions in the aviation radio frequency spectrum.
 
 **42network.org**\
-Currently pursuing a comprehensive curriculum at the Codam College in Amsterdam, focused on programming skills, including an emphasis on C and C++ languages.
+Currently pursuing a comprehensive curriculum at the [Codam College in Amsterdam](https://codam.nl), focused on programming skills, including an emphasis on C and C++ languages.
+[My Codam projects](https://github.com/jensbouma-codam)
 
 **backpackerswereld.nl**\
 Building [backpackerswereld.nl](https://backpackerswereld.nl) an affiliate site that is entirely driven by the choices and recommendations of OpenAi.
