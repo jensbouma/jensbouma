@@ -60,7 +60,7 @@ Building [backpackerswereld.nl](https://backpackerswereld.nl) an affiliate site 
 When I'm not coding or working, you can find me:
 
 - **Flying** Whether it's the thrill of catching thermals, the tranquility of silent flight, or the sense of accomplishment in mastering the art of glider flying, this hobby offers a unique and rewarding experience that combines the love of aviation with a deep connection to the beauty of the skies.
-- **Cycling** Mostly to maintain my conditon 😉
+- **Cycling** Mostly to maintain my conditon.
 
 Don't hesitate to delve into the depths of my work and feel free to ignite conversations and seek answers and remember, connection is the key to unlocking endless possibilities. 😄
 
