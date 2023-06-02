@@ -1,5 +1,6 @@
 # Hi there, I'm Jens Bouma 👋 
 [![WhatsApp](https://img.shields.io/badge/Text-@WhatsApp-green?style=for-the-badge&logo=whatsapp)](https://wa.me/+31621515661)[![Call](https://img.shields.io/badge/Speak-+31%20621515661-orange?style=for-the-badge)](https://wa.me/+31621515661)[![LinkedIn Connect](https://img.shields.io/badge/Connect-@LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jensbouma)
+
 Welcome to my GitHub profile! I'm a passionate amsterdam-based freelance media professional with a background in aviation and broadcast media.
 
 _I am open for new opportunities in the fields of media and programming, and I am excited to bring my skills and passion to collaborate on meaningful projects._
