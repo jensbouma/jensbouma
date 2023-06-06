@@ -7,6 +7,9 @@ _I am open for new opportunities in the fields of media and programming, and I a
 
 
 ## 👨🏼‍💻Ongoing
+**Wideband VHF capture with automated Voice Transcription for pilots**
+Using this system, pilots can capture a wide range of VHF radio frequencies, allowing them to monitor multiple communication channels simultaneously. This enables them to stay informed about various air traffic control communications, weather updates, and pilot-to-pilot communications.
+
 **Online Radio Telephony Practice Training Simulator**\
 As an innovative solution for aspiring radio telephony operators, I have developed an online training simulator specifically designed to enhance proficiency in radio communication within the aviation industry. This interactive platform provides a realistic environment for practicing radio telephony procedures, improving communication skills, and preparing individuals for successful interactions in the aviation radio frequency spectrum.
 
